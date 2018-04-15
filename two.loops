@@ -1,0 +1,7 @@
+FOR (i, 10, ++)
+BEGIN
+END
+FOR (j, 15, ++)
+BEGIN
+END
+

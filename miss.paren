@@ -1,0 +1,5 @@
+FOR (i, 23, ++)
+BEGIN
+FOR ((j, 5, ++)
+BEGIN END END
+FOR (g, 6, *)

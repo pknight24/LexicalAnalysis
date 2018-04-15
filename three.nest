@@ -1,0 +1,12 @@
+FOR (i, 3, ++))
+BEGIN
+  FOR (j, 6, ++)
+  BEGIN
+    FOR (f, 9, ++)
+    BEGIN
+      sum = 4;
+      ass = 89;
+      b = sum + ass;
+    END
+  END
+END

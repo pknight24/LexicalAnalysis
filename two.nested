@@ -1,0 +1,7 @@
+FOR (i, 5, ++)
+BEGIN
+FOR (j, 69, ++)
+BEGIN
+sum = sum + 5;
+END
+END

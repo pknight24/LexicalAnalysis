@@ -1,0 +1,4 @@
+FOR (i, 10, ++)
+BEGIN
+sum = sum + 1
+END 
